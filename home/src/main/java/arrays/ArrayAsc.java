@@ -32,6 +32,7 @@ public class ArrayAsc {
 		
 		ArrayAsc sort=new ArrayAsc();
 		Integer[] arr= {2,34,566,23,7777,1,78};
+		System.out.println("commit to github");
 		
 		sort.Ascending(arr);
 		
