@@ -33,6 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
+        system.out.println("build1 change");
         assertTrue( true );
     }
 }
